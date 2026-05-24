@@ -39,7 +39,7 @@ Passionate about building modern web applications, solving real-world problems, 
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,angular,Javascript"/>
 </p>
 
----
+
 
 ## ⚙️ Backend Development
 
@@ -47,7 +47,7 @@ Passionate about building modern web applications, solving real-world problems, 
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,dotnet,php,python" />
 </p>
 
----
+
 
 ## 🗄️ Databases
 
@@ -55,7 +55,7 @@ Passionate about building modern web applications, solving real-world problems, 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
----
+
 
 ## 📊 Data Analytics & Tools
 
