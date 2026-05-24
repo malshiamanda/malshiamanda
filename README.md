@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malshi Amanda</h1>
+<h1 align="center">Hi, I'm Malshi Amanda</h1>
 
 <h3 align="center">
 Software Engineering Graduate | Full Stack Developer | Data Analytics Enthusiast
